@@ -1,0 +1,129 @@
+{
+    "schema_version": 1,
+    "controller": "PC客户端",
+    "source": {
+        "title": "黄金竞技场攻略（S45~S46）",
+        "url": "https://www.gamekee.com/zsca2/684719.html",
+        "section": "43~44赛季作业",
+        "checked_on": "2026-10-08",
+        "note": "S45 新阵容部分在核对日仍为编辑中；以下三套来自文章保留的 S43-S44 作业，不代表当前赛季已验证阵容。"
+    },
+    "costumes": {
+        "sarah_professor": {
+            "character": "莎拉",
+            "costume": "魔法学院教授"
+        },
+        "nekendalia_marksman": {
+            "character": "内肯达利亚",
+            "costume": "神射手"
+        },
+        "eclipse_beach": {
+            "character": "伊柯利普斯",
+            "costume": "海滨度假"
+        },
+        "angelica_fallen_star": {
+            "character": "安洁莉卡",
+            "costume": "堕落之星"
+        },
+        "tenka_ame_no_uzume": {
+            "character": "出云天花",
+            "costume": "天御鸟命"
+        },
+        "eleaneer_piercing_bow": {
+            "character": "艾尼尔",
+            "costume": "穿透魔弓"
+        }
+    },
+    "presets": [
+        {
+            "id": "s43_s44_mixed_crit_1",
+            "title": "混合爆伤队①",
+            "suggested_score": {
+                "min": 1000,
+                "max": 1500
+            },
+            "roster": [
+                "sarah_professor",
+                "nekendalia_marksman",
+                "eclipse_beach",
+                "angelica_fallen_star",
+                "tenka_ame_no_uzume",
+                "eleaneer_piercing_bow"
+            ],
+            "requirements": {
+                "eleaneer_piercing_bow": "2火爆发",
+                "nekendalia_marksman": "范围潜能、1火爆发",
+                "eclipse_beach": "1火爆发",
+                "angelica_fallen_star": "1火爆发；练度越高越好",
+                "tenka_ame_no_uzume": "3火爆发"
+            },
+            "formation": null,
+            "action_order": null,
+            "blessings": {
+                "first": null,
+                "second": null
+            },
+            "notes": "roster 按 Wiki 的文字列举顺序记录，不等同于游戏内出手顺序；站位与庇佑来自攻略图片，等待 PC 客户端截图核对后填写。"
+        },
+        {
+            "id": "s43_s44_mixed_crit_2",
+            "title": "混合爆伤队②",
+            "suggested_score": {
+                "min": 1500,
+                "max": 2000
+            },
+            "roster": [
+                "sarah_professor",
+                "nekendalia_marksman",
+                "eclipse_beach",
+                "angelica_fallen_star",
+                "eleaneer_piercing_bow",
+                "tenka_ame_no_uzume"
+            ],
+            "requirements": {
+                "eleaneer_piercing_bow": "2火爆发",
+                "nekendalia_marksman": "范围潜能、1火爆发",
+                "eclipse_beach": "1火爆发",
+                "angelica_fallen_star": "1火爆发；练度越高越好",
+                "tenka_ame_no_uzume": "3火爆发"
+            },
+            "formation": null,
+            "action_order": null,
+            "blessings": {
+                "first": null,
+                "second": null
+            },
+            "notes": "roster 按 Wiki 的文字列举顺序记录，不等同于游戏内出手顺序；站位与庇佑来自攻略图片，等待 PC 客户端截图核对后填写。"
+        },
+        {
+            "id": "s43_s44_mixed_crit_3",
+            "title": "混合爆伤队③",
+            "suggested_score": {
+                "min": 2000,
+                "max": null
+            },
+            "roster": [
+                "sarah_professor",
+                "tenka_ame_no_uzume",
+                "eclipse_beach",
+                "angelica_fallen_star",
+                "nekendalia_marksman",
+                "eleaneer_piercing_bow"
+            ],
+            "requirements": {
+                "eleaneer_piercing_bow": "2火爆发",
+                "nekendalia_marksman": "范围潜能、1火爆发",
+                "eclipse_beach": "1火爆发",
+                "angelica_fallen_star": "1火爆发；练度越高越好",
+                "tenka_ame_no_uzume": "3火爆发"
+            },
+            "formation": null,
+            "action_order": null,
+            "blessings": {
+                "first": null,
+                "second": null
+            },
+            "notes": "roster 按 Wiki 的文字列举顺序记录，不等同于游戏内出手顺序；站位与庇佑来自攻略图片，等待 PC 客户端截图核对后填写。"
+        }
+    ]
+}
